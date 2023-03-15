@@ -1,2 +1,2 @@
 # chatgpt-prompts
-Inspired by benstein I'm writing down my most use ChatGPT prompts for myself and for future generations.
+Inspired by [benstein](https://github.com/benstein/chatgpt-prompts/blob/main/README.md) I'm writing down my most use ChatGPT prompts for myself and for future generations.
